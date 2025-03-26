@@ -1,0 +1,25 @@
+h3 {
+    color: #003366;
+}
+
+h:form {
+    margin: 20px;
+}
+
+h:dataTable {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+h:dataTable th, h:dataTable td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+h:commandButton {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
